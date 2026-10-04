@@ -2,6 +2,8 @@
 
 線上網站：https://shuan14408-ops.github.io/body-school-day/
 
+[![網站畫面](screenshot.webp)](https://shuan14408-ops.github.io/body-school-day/)
+
 跟著四位同學度過一天校園生活，透過遊戲親身體驗不同的身體與學習需求，並找出讓每個人都能參與的方法。
 
 ## 設計理念
